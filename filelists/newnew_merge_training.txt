@@ -1,0 +1,123 @@
+Paimon/training/train457.npy|qing3 jin4.
+Paimon/training/train458.npy|shi4 ni3 a, ni3 zhong1 yu2 lai2 le.
+Paimon/training/train460.npy|shi4 yao4 gei3 wo3 song4 hua1 ma?
+Paimon/training/train463.npy|xie4 xie4 ni3.
+Paimon/training/train464.npy|kuai4 kai1 chang3 le, nei4 jian4 shi4 wo3 men zhong1 chang3 xiu1 xi4 shi2 zai4 shuo1.
+Paimon/training/train465.npy|dai1 hui4 er2 jian4.
+Paimon/training/train476.npy|wo3 mei2 shi4, ni3 hai2 hao3 ma?
+Paimon/training/train479.npy|yi2? ni3 shi4 di4 wu3 yin1 de xue2 sheng1 a.
+Paimon/training/train481.npy|di4 wu3 yin1 bu2 shi4 xia4 yi2 zhan4 ma4?
+Paimon/training/train483.npy|kan4 zhe4 ge shi2 jian1, ni3 shi4 bu2 shi4 yao4 chi2 dao4 le.
+Paimon/training/train485.npy|wo3 men zheng4 hao3 shun4 lu4 o.
+Paimon/training/train486.npy|yao4 yi4 qi3 pao3 guo4 qu4 ma?
+Paimon/training/train489.npy|ye4 yi3! a1 ha1 ha1 ha1, gan3 shang4 la.
+Paimon/training/train490.npy|hai2 mei2 da3 ling2, kuai4 jin4 qu4 ba, bu4 ran2 men2 wei4 yao4 ji4 ni3 ming2 zi4 lo.
+Paimon/training/train492.npy|bai2 bai2.
+Paimon/training/train581.npy|ei2 ya.
+Paimon/training/train582.npy|zhen1 qiao3, you4 jian4 mian4 le.
+Paimon/training/train584.npy|dui4 o, suo3 yi3 xian4 zai4, shi4 lian4 qin2 de zi4 xi2?
+Paimon/training/train586.npy|ke3 ni3 zen3 me tou1 tou1 pao3 chu1 lai2 le? bu2 zai4 qin2 fang2 lian4?
+Paimon/training/train588.npy|o2 o4 yuan2 lai2 ru2 ci3, wo3 zhi1 qian2 nian4 shu1 de shi2 hou4 ye3 jing1 chang2 chu1 lai2 luan4 guang4 de.
+Paimon/training/train590.npy|qu4 he2 peng2 you3 liao2 tian1 a, lian4 lian4 zi4 ji3 gan3 xing4 qu4 de bie2 de yue4 qi4 a, you3 shi2 hou4 hai2 hui4 tou1 tou1 pao3 chu1 qu4 chi1 dong1 xi1.
+Paimon/training/train592.npy|zhi3 yao4 dan3 zi gou4 da4, na3 er dou1 gan3 qu4.
+Paimon/training/train594.npy|shi4 a, jin1 tian1 you3 dian3 shi4 hui2 lai2, zheng4 hao3 ye3 hui2 mu3 xiao4 can1 guan1, gan3 shou4 yi2 xia4 xiao4 yuan2 shi2 guang1.
+Paimon/training/train596.npy|a ha1 ha1, ni3 kan4 dao4 wo3 la.
+Paimon/training/train597.npy|dui4 le, ni3 ye3 shi4 wan2 er yue4 dui4 de ba.
+Paimon/training/train599.npy|ni3 cai1.
+Paimon/training/train601.npy|bing1 gou3! a ha1 ha1, zhen1 shi4 rang4 ren2 huai2 nian4 de di4 fang1 a, dang1 chu1 wo3 men ye3 shi4 tian1 tian1 dou1 zai4 zhe4 er pai2 lian4.
+Paimon/training/train602.npy|neng2 rang4 wo3 jin4 qu4 kan4 kan4 ma? ni3 you3 yao4 shi ba.
+Paimon/training/train603.npy|tai4 hao3 le! ha1 ha1, ben3 lai2 dou1 zuo4 hao3 qiao4 meng2 de da3 suan4 le.
+Paimon/training/train604.npy|zen3 me le? yao4 shi bu2 dui4 ma?
+Paimon/training/train606.npy|ke2 he1 ke2 he1, hao3 da4 de hui1 chen2 a.
+Paimon/training/train607.npy|zhe4 li3 hai2 shi4 yi4 ru2 ji4 wang3 de hei1.
+Paimon/training/train612.npy|mei2 shi4 mei2 shi4, wo3 wang4 ji4 deng1 zai4 na3 le he1 he1, wo3 men nei4 hui4 er ye3 zhe4 yang4.
+Paimon/training/train614.npy|mei2 shi4, zhi3 shi4 yin1 wei2 zhuang4 dao4 gu3 cai2 dong4 jin4 bi3 jiao4 da4.
+Paimon/training/train616.npy|xin1 tian1 le hao3 duo1 yue4 qi4 a, zhen1 bu2 cuo4.
+Paimon/training/train618.npy|wu2, shi4 jing1 chang2 zai4 zhe4 li3 lian4 xi2, zan2 men hai2 zhen1 shi4 you3 yuan2 a.
+Paimon/training/train620.npy|wo3? wo3 shen2 me dou1 hui4 zuo4 yi4 xie1 la, ni3 ne?
+Paimon/training/train623.npy|wa4! zhu3 chuang4 zhu3 chang4 jian1 ji2 ta1, sen1 te4 o fu2 sen1 te4 o fu2 sen1 te4 a!
+Paimon/training/train625.npy|hua4 shuo1 hui2 lai2, wo3 ye3 hao3 jiu3 mei2 tan2 ji2 ta1 le, ni3 neng2 tan2 yi4 qu3 ma?
+Paimon/training/train627.npy|wo3 kan4 kan4, zhe4 ge4 shi4 ni3 de ji2 ta1 ma?
+Paimon/training/train631.npy|ru2 guo3 bu2 yuan4 yi4 de hua4 jiu4 suan4 le, mei2 guan1 xi4 de.
+Paimon/training/train634.npy|zen3 me le? ha! tai4 guo4 fen4 le!
+Paimon/training/train636.npy|tai4 guo4 fen4 le! zhe4 shi4 shei2 gan4 de! zhe4 shi4 jin1 tian1 de shi4 qing2 ma?
+Paimon/training/train639.npy|ni3 zui4 hou4 jian4 zhe4 ba3 qin2 shi4 jin1 tian1 hai2 shi4 zuo2 tian1!
+Paimon/training/train642.npy|hao3 xie1 le ma?
+Paimon/training/train646.npy|e4, shi4 fa1 sheng1 le shen2 me ma?
+Paimon/training/train649.npy|ji4 ran2 wen4 le, ni3 de hua4 wo3 dou1 xiang1 xin4.
+Paimon/training/train650.npy|zhi3 yao4 ni3 bu2 jie4 yi4 de hua4, ke3 yi3 gen1 wo3 jiang3 jiang3.
+Paimon/training/train659.npy|suo3 yi3 shuo1, ni3 xiang3 fang4 qi4 yin1 yue4.
+Paimon/training/train661.npy|zhe4 xie1 shi4 qing2, ni3 he2 qi2 ta1 ren2 shang1 liang4 guo4 ma?
+Paimon/training/train666.npy|shei2 shuo1 de? ni3 bu2 shi4 dui4 wo3 hen3 tan3 cheng2 ma?
+Paimon/training/train667.npy|ni3 hui4 wei4 zhe4 zhong3 shi4 qing2 dan1 you1, shuo1 ming2 ni3 shi4 ge4 hen3 shan4 liang2 de hai2 zi ya, er2 qie3 ni3 shi4 fa1 zi4 nei4 xin1 de xi3 huan1 he2 zai4 hu1 ni3 de huo3 ban4.
+Paimon/training/train669.npy|dao4 ye3 mei2 na4 me yan2 zhong4, shei2 dou1 hui4 you3 bu4 xiang3 rang4 bie2 ren2 zhi1 dao4 de mi4 mi4, bu2 guo4, ni3 que4 shi2 you3 xie1 huan4 de2 huan4 shi1 le.
+Paimon/training/train671.npy|ru2 guo3 ta1 men shi4 ni3 ru2 ci3 zhong4 shi4 de huo3 ban4 de hua4, fan3 guo4 lai2, wo3 xiang1 xin4 ta1 men ye3 yi2 yang4 fei1 chang2 zhong4 shi4 ni3 de.
+Paimon/training/train672.npy|wo3 jue2 de ni3 wan2 quan2 ke3 yi3 yi1 kao4 ta1 men, gao4 su4 ta1 men zhen1 xiang4, rang4 ta1 men bang1 ni3 yi1 qi3 du4 guo4 nan2 guan1.
+Paimon/training/train675.npy|xiao3 sha3 gua1, ci2 qu3 jian1 ji2 ta1 jian1 zhu3 chang4, sen1 te4 o fu2 sen1 te4 o fu2 sen1 te4, zhe4 ke3 shi4 yue4 dui4 de ling2 hun2, bu2 shi4 shen2 me ren2 xiang3 dang1 jiu4 neng2 dang1 de.
+Paimon/training/train676.npy|yue4 dui4 ye3 bu2 shi4 sui2 bian4 he2 shei2 dou1 neng2 zu3 de.
+Paimon/training/train678.npy|ni3 shi4 bu2 shi4 tin1 shuo1 guo4, hen3 duo1 yue4 dui4 jie3 san4 de shi2 hou4, dou1 shuo1 de shen2 me, yin1 yue4 xing1 bu4 he2.
+Paimon/training/train679.npy|dan4 shi2 ji4 shang4, na3 you3 na4 me duo1 yin1 yue4 xing4 xiang1 he2 de ren2 a, mei3 ge4 ren2 dui4 yin1 yue4 de li3 jie3 xing4 dou1 bu4 tong2, mei3 ge4 ren2 xiang3 zuo4 de yin1 yue4 dou1 bu4 tong2, wu2 fei1 dou1 shi4 qiu2 tong2 cun2 yi4 ba4 le.
+Paimon/training/train680.npy|nei4 xie1 hao4 cheng1 yin1 yue4 xing4 bu4 he2 de ren2, bai3 fen1 zhi1 jiu3 shi2 dou1 shi4 yin1 wei4 bi3 ci3 wu2 fa3 xiang1 chu3, mei2 le gan3 qing2, shen4 zhi4 bi3 ci3 yan4 wu4.
+Paimon/training/train681.npy|yue4 dui4 shi4 ge4, wu2, shi4 ge4 te4 shu1 de cun2 zai4, ta1 bu4 jin3 jin3 shi4 yi2 ge4 zhui1 qiu2 yin1 yue4 de di4 fang1, ta1 shi4 yi2 ge4 huo3 ban4 men ju4 ji2 zai4 yi4 qi3, yi4 tong2 nu3 li4, xiang1 hu4 gu3 li4,
+Paimon/training/train682.npy|yi4 qi3 wei4 le meng4 xiang3 er2 fen4 dou4 de di4 fang1.
+Paimon/training/train683.npy|zai4 zhe4 tiao2 lu4 shang4, hui4 you3 kuai4 le4 de shi2 guang1, ye3 hui4 you3 mao2 dun4 hui4 you3 mo2 ca1, dan4 shi4 zhong4 yao4 de jiu4 shi4, da4 jia1 yi4 qi3 mian4 dui4, yi4 qi3 ke4 fu2.
+Paimon/training/train684.npy|ye3 you3 shi2 you3 de ren2 hui4 yu4 dao4 kun4 nan2, zhe4 shi2, bang1 zhu4 ta1 jiu4 shi4 qi2 ta1 ren2 de ren4 wu4.
+Paimon/training/train685.npy|bi4 jing4, xuan3 ze2 le yue4 dui4, zui4 zhong4 yao4 de jiu4 bu2 shi4 yin1 yue4 ben3 shen1, er2 shi4 he2 huo3 ban4 men yi1 qi3 "zhui1 qiu2 yin1 yue4" zhe4 jian4 shi4 qing2.
+Paimon/training/train686.npy|zai4 zhe4 yang4 de di4 fang1, ni3 cheng2 wei2 le sen1 te4, huo4 zhe3 sen1 te4 zhi1 yi1, guang1 you3 yin1 yue4 neng2 li4 shi4 bu2 gou4 de, hai2 shuo1 ming2, ni3 shi4 bei4 huo3 ban4 men ai4 zhe de ya.
+Paimon/training/train688.npy|wo3 ke3 shi4, hen3 xian4 mu4 ni3 de ya.
+Paimon/training/train690.npy|wo3 dang1 nian2 shuo1 shi4 yue4 dui4, dan4 qi2 shi2 chu2 le wo3, zhi3 you3 yi2 ge4 tan2 bei4 si1 de nv3 hai2 zi er2 yi3.
+Paimon/training/train691.npy|dang1 shi2 de wo3, wu2, you3 xie1 he1 he1, zhe4 hua4 zi4 ji3 lai2 shuo1 you3 dian3 qi2 guai4, jiu4 shi4, feng1 mang2 tai4 guo4 ba, huo4 zhe3 yong4 dang1 shi2 bie2 ren2 de hua4 lai2 shuo1, jiu4 shi4 pan4 ni4.
+Paimon/training/train692.npy|hai2 you3 hen3 duo1 ren2 shuo1 wo3 shi4, di4 wu3 yin1 zui4 pan4 ni4 de bi4 ye4 sheng1 ne, he1 he1, zhen1 shi4 yi4 dian3 ye3 bu4 ke3 ai4 de hun4 ming2.
+Paimon/training/train693.npy|dang1 shi2 zai4 xue2 xiao4 li3, wo3 de yin1 yue4 hen3 shou4 huan1 yin2, ye3 you3 bu4 shao3 ren2 ren4 wei2, wo3 de yin1 yue4 neng2 li4 hen3 qiang2, dan4 shi4, ji1 hu1 mei2 you3 ren2 yuan4 yi4 he2 wo3 yi4 qi3 zu3 yue4 dui4.
+Paimon/training/train695.npy|ha1 ha1, ye3 hen3 zheng4 chang4, neng2 li4 bei4 ren4 ke3, bu2 dai4 biao3 da4 jia1 hui4 yuan4 yi4 he2 wo3 yi4 qi3 xiang1 chu3.
+Paimon/training/train696.npy|jiu4 na2 zhe4 ji2 ta1 lai2 shuo1 ba, wo3 dang1 shi2 ye3 yu4 dao4 guo4 zhe4 yang4 de shi4 qing2.
+Paimon/training/train698.npy|shi4 a, feng1 mang2 tai4 guo4, jiu4 hui4 zhao1 lai2 ji4 du4, ji4 du4 yin3 zhi4 yan4 wu4, yan4 wu4 zi1 sheng1 e4 yi4.
+Paimon/training/train699.npy|dang1 ran2, wo3 hou4 lai2 zhao3 dao4 le xiong1 shou3, rang4 ta1 fu4 chu1 le dian3 dai4 jia4.
+Paimon/training/train701.npy|dan4 shi4 wo3 hai2 mei2 you3 ni3 xing4 yun4.
+Paimon/training/train703.npy|shi4 a, wo3 dang1 shi2 chu1 le zhe4 yang4 de shi4 qing2, hao3 xie1 ren2 dou1 zai4 kan4 wo3 de xiao4 hua4, yi4 fen4 tian2 yin1 de zhui1 sui2 zhe3 dang1 ran2 ye3 you3.
+Paimon/training/train704.npy|dan4 shi4 wo3 zhen1 zheng4 neng2 qu4 shang1 liang4 qing1 su4 de huo3 ban4, que4 ji1 hu1 mei2 you3.
+Paimon/training/train705.npy|suo3 yi3 wo3 cai2 hui4 shuo1, wo3 hen3 xian4 mu4 ni3.
+Paimon/training/train707.npy|dang1 ran2, mei3 ge4 ren2 dou1 yi2 ding4 xian4 mu4 zhe shen2 me ren2, er2 mei3 ge4 ren2, ye3 yi2 ding4 dou1 bei4 shen2 me ren2 xian4 mu4 zhe.
+Paimon/training/train708.npy|xian4 zai4 de ni3, na3 pa4 ni3 zi4 ji3 mei2 yi4 shi2 dao4, ye3 yi2 ding4 shan3 zhe guang1, suo3 yi3, cai2 hui4 you3 na4 me duo1 huo3 ban4, yuan4 yi4 he2 ni3 yi4 qi3 zhui1 zhu2 meng4 xiang3.
+Paimon/training/train711.npy|ai1, ye3 bie2 duo1 xin2, zhe4 zhong3 shi4 qing2 ye3 hen3 zheng4 chang2, wo3 ye3 you3 guo4 zhe4 yang4 de shi2 qi1.
+Paimon/training/train713.npy|na4 shi4 wo3 gang1 gang1 jin4 xue2 xiao4 de shi2 hou4.
+Paimon/training/train714.npy|sui1 ran2 bu2 xiang4 ni3 zhe4 me yan2 zhong4, dan4 wo3 dang1 shi2, shi4 da3 xin1 di3 li3 kang4 ju4 yin1 yue4 de.
+Paimon/training/train715.npy|bu4 zhi1 dao4 wei4 shen2 me dao4 le zhe4 zuo3 xue2 xiao4, bu4 zhi1 dao4 wei4 shen2 me yao4 jian1 chi2 yin1 yue4, bu4 zhi1 dao4 shi4 wei4 le shei2 zai4 nu3 li4, zhao3 bu2 dao4 yi4 ding1 dian3 er2 qian2 jin4 de dong4 li4.
+Paimon/training/train716.npy|suo3 you3 de shi4 qing2 wo3 dou1 hen3 gan3 xing4 qu4, hen3 yuan4 yi4 qu4 zuo4, wei2 du2 chu2 le yin1 yue4.
+Paimon/training/train718.npy|ran2 hou4 jue2 de na4 xie1 dou1 bu2 shi4 ban4 fa3, jiu4 suan4 zuo4 le hen3 duo1 bie2 de shi4 qing2, hai2 shi4 hun2 hun2 e4 e4, mei2 you3 shi2 gan3.
+Paimon/training/train719.npy|mei3 tian1 dou1 da3 da3 nao4 nao4 mei2 xin1 mei2 fei4 de guo4 wan2 yi4 zheng3 tian1, hui2 dao4 jia1 li3, yi1 ge4 ren2 tang3 zai4 chuang2 shang4 shi2, zhi3 hui4 gan3 dao4 jia1 bei4 de kong1 xu1.
+Paimon/training/train720.npy|guo4 le hen3 jiu3 cai2 ming2 bai2 guo4 lai2, zi4 ji3 zhi1 qian2 suo3 zuo4 de suo3 you3 shi4 qing2, bu2 guo4 zhi3 shi4 tao2 bi4 ba4 le.
+Paimon/training/train722.npy|jiu4 xiang4 shi4 kan4 jian4 le bo1 li qiang2 de fan3 guang1 yi1 yang4, kan4 jian4 le yan3 qian2 de zu3 ai4, bian4 de wu2 fa3 qian2 jin4.
+Paimon/training/train723.npy|qi2 shi2 wo3 zi4 ji3 yi4 kai1 shi3 jiu4 shi4 ming2 bai2 de, wo3 na4 me de xi3 haun1 yin1 yue4, na4 me de xiang3 chang4 ge1, wo3 chu2 le zhe4 jian4 shi4 shen2 me ye3 bu4 xiang3 zuo4.
+Paimon/training/train724.npy|ran2 er2 zhe4 zhong3 du3 ding4, que4 bian4 cheng2 le yi4 zhong3 fu4 dan1, ru2 guo3 wo3 zuo4 bu4 hao3 zen3 me ban4, wan4 yi1 wo3 bu2 shi4 he2 zen3 me ban4.
+Paimon/training/train725.npy|ru2 guo3 wo3 shi2 xian4 bu4 liao3 wo3 de meng4 xiang3, gai1 zen3 me ban4.
+Paimon/training/train726.npy|suo3 you3 de bu4 an1, cai1 yi2, pang2 huang2, mi2 mang2, quan2 dou1 hui4 ju4 cheng2 jian3 dan1 de tao2 bi4, yin1 yue4 rang4 wo3 bu4 shu1 fu2, bu2 zi4 zai4.
+Paimon/training/train727.npy|wo3 kai1 shi3 tao2 bi4, wo3 da3 xin1 di3 li3 zui4 xi3 huan1 de dong1 xi1.
+Paimon/training/train729.npy|gang1 gang1 ni3 fa1 xian4 ji2 ta1 huai4 diao4 de shi2 hou4, wo3 kan4 dao4 ni3 de biao3 qing2, jiu4 zhi1 dao4,
+Paimon/training/train730.npy|na4 bu2 shi4 kan4 dao4 yi2 jian4 ang2 gui4 de qi4 wu4 huai4 diao4 de wan3 xi1, er2 shi4 kan4 dao4 yi2 ge4 sheng1 ming4, yi2 ge4 huo3 ban4 si3 qu4 shi2 de bei1 tong4.
+Paimon/training/train731.npy|bu2 shi4 zhen1 xin1 ai4 yin1 yue4 de ren2, shi4 bu2 hui4 you3 zhe4 zhong3 biao3 qing2 de.
+Paimon/training/train733.npy|ni3 zi4 ji3 zui4 qing1 chu3 bu2 guo4 le ba, qi2 shi2 ni3 zui4 xi3 huan1 yin1 yue4 le.
+Paimon/training/train735.npy|zhi3 yao4 bi4 shang4 yan3 jing1, na4 xie1 da3 dong4 guo4 zi4 ji3 de xuan2 lv4, di4 yi1 ci4 tin1, he2 fan3 fu4 lin2 ting1 shi2 de gan3 shou4, dou1 hui4 yong3 shang4 xin1 tou2.
+Paimon/training/train736.npy|yin1 yue4 zhen1 de shi4 shi4 jie4 shang4 zui4 zui4 wei3 da4, zui4 zui4 dong4 ren2 de yi4 shu4.
+Paimon/training/train737.npy|ni3 ye3 yi2 yang4 ba, wu2 shu4 ci4, wu2 shu4 ci4 you2 zhong1 de zhe4 yang4 jing4 tan4, xiang4 ge4 zui4 qian2 cheng2 de xin4 tu2, qian1 bei1 de, bai4 dao3 zai4 yin1 yue4 zhi1 shen2 xi1 xia4.
+Paimon/training/train740.npy|dui4 ba, he1, kan4 lai2 wo3 men zhen1 de hen3 xiang4.
+Paimon/training/train742.npy|zhi3 yao4 ming2 bai2 le zi4 ji3 shi4 zai4 tao2 bi4, man4 man4 jiu4 hui4 zhi1 dao4 gai1 zen3 me zuo4 le.
+Paimon/training/train743.npy|ren2 de da4 nao3, ke3 shi4 shi2 fen1 jing1 miao4 you3 qu4 de.
+Paimon/training/train746.npy|wu2, shuo1 bu2 ding4 hui4 you3 xie1 ji1 yuan2 qiao3 he2 o.
+Paimon/training/train747.npy|bi3 fang1 shuo1, e dui4 le, ni3 ting1 dao4 le dang1 chu1 rang4 ni3 gan3 dong4 de, rang4 ni3 jue2 ding4 xue2 xi2 yin1 yue4 de na4 shou3 ge1.
+Paimon/training/train748.npy|nei4 ge4 shun4 jian1, shuo1 bu2 ding4 yi2 qie4 jiu4 hui4 yan1 xiao1 yun2 san4 le.
+Paimon/training/train750.npy|dao4 di3 ru2 he2, jiu4 shi4 nei4 ge4 shi2 hou4 de jing1 xi3 la.
+Paimon/training/train752.npy|a ha1 ha1, wo3 ye3 zhi3 shi4 zuo4 wei2 guo4 lai2 ren2 sui2 bian4 jiang3 le jiang3 zi4 ji3 de shi4 qing2.
+Paimon/training/train753.npy|zai4 shuo1 le, zhe4 zhong3 shi4 qing2 na3 li3 you4 hui4 you3 jin4 tou2.
+Paimon/training/train756.npy|a1 ha1 ha1 ha1, mei2 shen2 me mei2 shen2 me, zhi3 shi4 zi4 yan2 zi4 yu3.
+Paimon/training/train757.npy|zong3 zhi1! wo3 xiang1 xin4 mei2 you3 kua4 bu2 guo4 de kan3, fan3 zheng4 dou1 hai2 nian2 qing1, nu3 li4 nu3 li4 jiu4 guo4 qu4 la.
+Paimon/training/train758.npy|suo3 yi3, ni3 ye3 yao4 jia1 you2 o.
+Paimon/training/train760.npy|bu4 yao4 zai4 hu1 bie2 ren2 de xiang3 fa3, ni3 zhi3 yao4 ming2 bai2 zi4 ji3 de xiang3 fa3 jiu4 hao3 le.
+Paimon/training/train761.npy|bu2 yao4 hai4 pa4, qing1 ting1 zi4 ji3 de sheng1 yin1.
+Paimon/training/train763.npy|ao4! shi2 jian1 bu4 zao3 le, wo3 hai2 you3 dian3 shi4 yao4 xian1 li2 kai1 le.
+Paimon/training/train765.npy|na3 li3 na3 li3! shi4 wo3 yin4 yao4 gen1 ni3 liao2 zhe4 me duo1 de, dang1 ran2, neng2 bang1 dao4 ni3 jiu4 geng4 hao3 le.
+Paimon/training/train766.npy|bu2 guo4, hai2 you3 yi2 jian4 shi4.
+Paimon/training/train768.npy|zuo4 chu1 zhe4 zhong3 shi4 qing2 de ren2, jue2 dui4 bu4 neng2 rao2 guo4 ta1.
+Paimon/training/train770.npy|ni3 zhe4 ge4 yi2 ding4 bu4 neng2 zai4 man2 da4 jia1 le, yao4 gen1 da4 jia1 shuo1, gen1 lao3 shi1 shuo1, diao4 jian1 kong4, yi2 ding4 yao4 ba3 zhe4 ge4 jia1 huo3 zhao3 dao4.
+Paimon/training/train771.npy|yan2 zhong4 de hua4 hai2 yao4 bao4 jing3, ming2 bai2 le ma?
+Paimon/training/train773.npy|na4 wo3 jiu4 xian11 zou3 le, wan3 shang4 jian4, yi2 ding4 yao4 ba3 zhe4 ge4 hun2 dan4 zhao3 dao4 o!
